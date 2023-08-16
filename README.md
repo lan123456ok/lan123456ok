@@ -6,13 +6,16 @@
   </h4>
 </div>  
 
-![code](https://github.com/lan123456ok/lan123456ok/assets/64628837/7ccfb6dc-2ea3-4490-bc43-72eb68ad289e)
+<div align="center">
+  
+  ![code](https://github.com/lan123456ok/lan123456ok/assets/64628837/7ccfb6dc-2ea3-4490-bc43-72eb68ad289e)
+</div>  
 
-
-### Recently Playing 🎧
+<div align="center">
+  ### Recently Playing 🎧
 <br>
 <div>
-  <div align="left">
+  <div align="center">
     <img width="180" src="https://apple-music-readme-xi.vercel.app/">
   </div>
 </div>
@@ -31,10 +34,14 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 
-### 📫 &nbsp; Contact me:
+### 📫 &nbsp;Contact me:
 <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:my.nc.work@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/-@myx_350_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+
+  
+</div>  
+
 
 ---
 
