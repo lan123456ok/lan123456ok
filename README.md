@@ -1,16 +1,23 @@
-<h1 align="left">Yes sir👋, I'm My</h1>
-<small align="left">my coding place.</small>
+<h1 align="left">my coding place. </h1>
+
+<div align="center">
+  <h4>
+    "Minh <sub>tu do</sub> <sup>do tu</sup> minh"
+  </h4>
+</div>  
+
+![code](https://github.com/lan123456ok/lan123456ok/assets/64628837/7ccfb6dc-2ea3-4490-bc43-72eb68ad289e)
 
 
----
 ### Recently Playing 🎧
-
 <br>
 <div>
   <div align="left">
     <img width="180" src="https://apple-music-readme-xi.vercel.app/">
   </div>
 </div>
+
+---
 
  ### 💻 Languages and Tools:
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
