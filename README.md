@@ -1,11 +1,8 @@
 <h1 align="left">Yes sir👋, I'm My</h1>
 <small align="left">my coding place.</small>
 <img src="https://file.notion.so/f/s/a3a08825-77b6-4378-935a-c6a82bef6713/code.gif?id=9685c382-efc8-4914-b21f-e40c3f62e573&table=block&spaceId=0d7f0856-167c-4bbe-b831-0e00514ed97c&expirationTimestamp=1692316800000&signature=AMUEhKDdYw76V1cW3pLSqDOE5voCwqqqJvqOfzHNKNs">
+<video src='https://video.twimg.com/tweet_video/FhRSvbvVIAAW5A2.mp4' width=180/>
 <hr>
-
-
-https://github.com/lan123456ok/lan123456ok/assets/64628837/970bd546-5d58-47c8-8fc2-f6bf1c7c7d0d
-
 
 ### Recently Playing 🎧
 
