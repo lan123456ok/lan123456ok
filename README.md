@@ -2,7 +2,9 @@
 <small align="left">my coding place.</small>
 
 ### Recently Playing 🎧
-
+<div align="center">
+  <img src="[https://apple-music-readme.vercel.app/](https://apple-music-readme-xi.vercel.app/)">
+</div>
 ---
 ### Languages and Tools:
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
