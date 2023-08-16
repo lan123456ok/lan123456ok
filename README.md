@@ -5,11 +5,11 @@
 
 <br>
 <div>
-  <div align="left">
+  <div style="float: left;">
     <img src="https://apple-music-readme-xi.vercel.app/">
   </div>
   <div style="float: left;">
-    https://github.com/lan123456ok/lan123456ok/assets/64628837/2c98378f-fa22-45d2-bdd1-6bb377465323
+    
   </div>
 </div>  
 
