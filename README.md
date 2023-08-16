@@ -1,6 +1,9 @@
 <h1 align="left">Yes sir👋, I'm My</h1>
 <h3 align="left">my coding place.</h3>
 
+### Recently Playing 🎧
+
+
 ### Languages and Tools:
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
@@ -15,9 +18,6 @@
 <br />
 <br />
 ---
-
-
-### Now Playing 🎧
 
 
 
