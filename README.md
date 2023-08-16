@@ -3,7 +3,7 @@
 
 ### Recently Playing 🎧
 <div align="center">
-  <img src="https://apple-music-readme.vercel.app/">
+  <img src="https://apple-music-readme-xi.vercel.app/">
 </div>
 ---
 ### Languages and Tools:
