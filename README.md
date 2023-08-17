@@ -12,7 +12,7 @@
 </div>  
 
 <div align="center">
-  ### Recently Playing 🎧
+  ### Recently Playlist 🎧
 <br>
 <div>
   <div align="center">
