@@ -2,7 +2,7 @@
 
 <div align="center">
   <h4>
-    "Minh <sub>tu do</sub> <sup>do tu</sup> minh"
+    "Minh <sub>tu do</sub> <sup>do tu</sup> minh" - DSK
   </h4>
 </div>  
 
