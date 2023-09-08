@@ -2,7 +2,7 @@
 
 <div align="center">
   <h4>
-    "Minh <sub>tu do</sub> <sup>do tu</sup> minh" - DSK
+    "Minh <sub>tu do</sub> <sup>do tu</sup> minh" - Vietnamese RapGodzilla
   </h4>
 </div>  
 
