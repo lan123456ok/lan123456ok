@@ -34,7 +34,7 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="php" width="40" height="40"/> </a>
 
 ### 📫 &nbsp;Contact me:
-<a href="https://www.linkedin.com/in/m%E1%BB%B9-nguy%E1%BB%85n-ch%C3%AD-842303291/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="www.linkedin.com/in/my-nguyen-chi-842303291"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:my.nc.work@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://www.instagram.com/wan_myxxaka/"><img src="https://img.shields.io/badge/-@wan_myxxaka-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
