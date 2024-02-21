@@ -11,15 +11,16 @@
   ![code](https://github.com/lan123456ok/lan123456ok/assets/64628837/7ccfb6dc-2ea3-4490-bc43-72eb68ad289e)
 </div>  
 
+<!-- BEGIN YOUTUBE-CARDS -->
 <div align="center">
   ### Recently Playlist 🎧
 <br>
 <div>
   <div align="center">
-    <img width="180" src="https://www.youtube.com/playlist?list=LL">
+    <img width="180" src="https://64.media.tumblr.com/95c3d5dbe4aafac1a6765e4d0f1e989d/a85423a672a0bd64-c7/s1280x1920/764019b86f06475c5135f93dc1a73f1969525e23.png">
   </div>
 </div>
-
+<!-- END YOUTUBE-CARDS -->
 ---
 
  ### 💻 Languages and Tools:
